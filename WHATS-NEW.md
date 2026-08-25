@@ -6,6 +6,8 @@ Every change members can see, newest first. Dates are when it went live.
 
 ## August 2026
 
+**25 August — If Plus is ever unavailable.** Buying Plus can be paused at short notice. If that happens you will see why, and anything you have already bought keeps working right through to the day it runs out — a pause stops new sales, never the membership you are holding. You can leave your address and be emailed the moment it is possible to buy again.
+
 **25 August — Buying Plus is simpler.** Plus is now a single month at a time — there is no subscription to cancel and nothing to manage, it simply ends unless you buy another. To change anything about your membership, reply to any 8hues email and a person will sort it.
 
 **25 August — Video calls connect more reliably.** A tile that stayed black when someone joined a call now keeps asking for their camera until it arrives, instead of staying empty for the rest of the call.
