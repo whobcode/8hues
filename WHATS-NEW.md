@@ -6,6 +6,10 @@ Every change members can see, newest first. Dates are when it went live.
 
 ## August 2026
 
+**25 August — Buying Plus is simpler.** Plus is now a single month at a time — there is no subscription to cancel and nothing to manage, it simply ends unless you buy another. To change anything about your membership, reply to any 8hues email and a person will sort it.
+
+**25 August — Video calls connect more reliably.** A tile that stayed black when someone joined a call now keeps asking for their camera until it arrives, instead of staying empty for the rest of the call.
+
 **22 August — Faster start.** The app no longer loads the map before you've
 signed in, so the sign-in screen appears sooner, especially on mobile data.
 
