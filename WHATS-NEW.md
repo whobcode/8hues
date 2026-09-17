@@ -4,6 +4,12 @@ Every change members can see, newest first. Dates are when it went live.
 
 ---
 
+## September 2026
+
+**17 September — Your colour scheme is not just a colour any more.** Each of the eight now changes something real — how you sit on the map, who ends up in your inbox, how far away people can still see you, whether you leave a trace when you look at someone. We are not printing a table of which does what; pick one and pay attention. Orange is the exception, and spells itself out because it has to. Choose orange and Extra gains a card that puts a pin on the map for up to twelve hours, with a name, a note and a clock on it, so anyone nearby can see you are around and what you are up to. What that costs you is on the card too: the pin sits on your exact spot rather than the fuzzed circle people normally see of you, and it carries your username. Your own pin does not change and stays as private as you have set it. One at a time, you can end it whenever you like, and it clears itself when the clock runs out.
+
+---
+
 ## August 2026
 
 **25 August — If Plus is ever unavailable.** Buying Plus can be paused at short notice. If that happens you will see why, and anything you have already bought keeps working right through to the day it runs out — a pause stops new sales, never the membership you are holding. You can leave your address and be emailed the moment it is possible to buy again.
