@@ -6,6 +6,8 @@ Every change members can see, newest first. Dates are when it went live.
 
 ## September 2026
 
+**18 September — The app has a new shape.** On a phone there is a bar of tabs along the bottom; on a desktop a rail down the side; and the map now fills the whole window behind whatever you have open instead of being squeezed next to it. Things that were buried in the settings page have their own place to be — your favourites, who has viewed you, who you have blocked, and the places near you. Every screen has its own address now, which means the back button goes back instead of dropping you out of the app, and you can send someone a link straight to a profile or a conversation and have it open there.
+
 **17 September — Your colour scheme is not just a colour any more.** Each of the eight now changes something real — how you sit on the map, who ends up in your inbox, how far away people can still see you, whether you leave a trace when you look at someone. We are not printing a table of which does what; pick one and pay attention. Orange is the exception, and spells itself out because it has to. Choose orange and Extra gains a card that puts a pin on the map for up to twelve hours, with a name, a note and a clock on it, so anyone nearby can see you are around and what you are up to. What that costs you is on the card too: the pin sits on your exact spot rather than the fuzzed circle people normally see of you, and it carries your username. Your own pin does not change and stays as private as you have set it. One at a time, you can end it whenever you like, and it clears itself when the clock runs out.
 
 ---
