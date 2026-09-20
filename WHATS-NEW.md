@@ -6,6 +6,8 @@ Every change members can see, newest first. Dates are when it went live.
 
 ## September 2026
 
+**20 September — The sign-in screen is made of the same glass as the rest of the app now.**
+
 **20 September — The zoom buttons and the notification banners are made of the same glass as everything else now, instead of sitting on the map as solid panels.**
 
 **20 September — Text on the floating panels is much easier to read — they are tinted a little deeper, the secondary type is brighter, and there is more shine across the top of the glass.**
