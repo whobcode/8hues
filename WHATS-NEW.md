@@ -6,6 +6,8 @@ Every change members can see, newest first. Dates are when it went live.
 
 ## September 2026
 
+**20 September — Text on the floating panels is much easier to read — they are tinted a little deeper, the secondary type is brighter, and there is more shine across the top of the glass.**
+
 **20 September — The panels now work like real glass over the map — the edges catch the light and split it the way a prism does, and what is underneath is gently magnified, as if you were looking through a lens rather than a tinted window.**
 
 **20 September — The panels are properly see-through now rather than frosted — the map stays sharp straight through them instead of blurring out, and they keep the colour you picked instead of washing out to grey.**
