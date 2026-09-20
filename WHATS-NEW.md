@@ -6,6 +6,8 @@ Every change members can see, newest first. Dates are when it went live.
 
 ## September 2026
 
+**20 September — The online count now tells you both numbers — how many people are within 25 miles of you, and how many are on 8hues altogether.** It used to say "nearby" while quietly counting everyone, so a quiet evening near you and a quiet evening everywhere looked identical.
+
 **20 September — Conversations you had before this week are back in Messages too.** The list can now go and find threads it had no record of, so anything you have ever been sent is there the next time you open it, with the last line and whatever you hadn't read.
 
 **20 September — Your conversations stay in Messages now.** The list used to fall back to whoever happened to be nearby, so a thread you had really been using looked like it had vanished once the other person went offline. It lists the people you have actually talked to, newest first, with the last line of each and a count of what you haven't read yet — and that count clears when you open the thread. Tapping a message notification now takes you straight into that conversation instead of to the list.
