@@ -6,6 +6,8 @@ Every change members can see, newest first. Dates are when it went live.
 
 ## September 2026
 
+**20 September — Conversations you had before this week are back in Messages too.** The list can now go and find threads it had no record of, so anything you have ever been sent is there the next time you open it, with the last line and whatever you hadn't read.
+
 **20 September — Your conversations stay in Messages now.** The list used to fall back to whoever happened to be nearby, so a thread you had really been using looked like it had vanished once the other person went offline. It lists the people you have actually talked to, newest first, with the last line of each and a count of what you haven't read yet — and that count clears when you open the thread. Tapping a message notification now takes you straight into that conversation instead of to the list.
 
 **18 September — The app has a new shape.** On a phone there is a bar of tabs along the bottom; on a desktop a rail down the side; and the map now fills the whole window behind whatever you have open instead of being squeezed next to it. Things that were buried in the settings page have their own place to be — your favourites, who has viewed you, who you have blocked, and the places near you. Every screen has its own address now, which means the back button goes back instead of dropping you out of the app, and you can send someone a link straight to a profile or a conversation and have it open there.
