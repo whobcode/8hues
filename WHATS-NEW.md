@@ -6,6 +6,8 @@ Every change members can see, newest first. Dates are when it went live.
 
 ## September 2026
 
+**21 September — Passkeys and changing your password now live at the bottom of Edit profile.** The site's description of what costs money has also been corrected — the map, messaging and changing your location are free, and 8hues Plus is the optional paid tier.
+
 **20 September — The sign-in screen now uses the width of a desktop screen instead of showing a phone-sized box in the middle of it.**
 
 **20 September — The sign-in screen is made of the same glass as the rest of the app now.**
