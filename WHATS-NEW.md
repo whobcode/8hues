@@ -6,6 +6,8 @@ Every change members can see, newest first. Dates are when it went live.
 
 ## September 2026
 
+**27 September — Checkout asks for your username.** Buying Plus now has one required box: your 8hues username. Fill it in and your membership goes on straight away, even if you pay with a different email address than the one you signed up with. The app shows you exactly what to type when it opens the shop, and you can use it to buy Plus for someone else by entering their username.
+
 **21 September — Passkeys and changing your password now live at the bottom of Edit profile.** The site's description of what costs money has also been corrected — the map, messaging and changing your location are free, and 8hues Plus is the optional paid tier.
 
 **20 September — The sign-in screen now uses the width of a desktop screen instead of showing a phone-sized box in the middle of it.**
