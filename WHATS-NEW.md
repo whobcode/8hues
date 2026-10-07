@@ -4,6 +4,12 @@ Every change members can see, newest first. Dates are when it went live.
 
 ---
 
+## October 2026
+
+**7 October — Each colour now carries a line about itself under the picker, and the row of coloured dots in Filters finally says what it does.**
+
+---
+
 ## September 2026
 
 **27 September — Checkout asks for your username.** Buying Plus now has one required box: your 8hues username. Fill it in and your membership goes on straight away, even if you pay with a different email address than the one you signed up with. The app shows you exactly what to type when it opens the shop, and you can use it to buy Plus for someone else by entering their username.
