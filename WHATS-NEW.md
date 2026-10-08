@@ -6,6 +6,8 @@ Every change members can see, newest first. Dates are when it went live.
 
 ## October 2026
 
+**8 October — Roll the credits — see who and what built 8hues, and stay for the post-credits scene, at 8hues.com/credits.**
+
 **7 October — Each colour now carries a line about itself under the picker, and the row of coloured dots in Filters finally says what it does.**
 
 ---
