@@ -6,6 +6,8 @@ Every change members can see, newest first. Dates are when it went live.
 
 ## October 2026
 
+**10 October — Photos you upload now have any hidden location and camera details removed on our servers as well as in the app.**
+
 **10 October — Profiles are now for members only, and your profile no longer keeps a copy of your location.** Where you are lives only on the live map, offset by the distance you chose.
 
 **8 October — Roll the credits — see who and what built 8hues, and stay for the post-credits scene, at 8hues.com/credits.**
