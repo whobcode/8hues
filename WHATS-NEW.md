@@ -6,6 +6,8 @@ Every change members can see, newest first. Dates are when it went live.
 
 ## October 2026
 
+**11 October — Photos you remove from your profile are now deleted from our servers, and photos you send in a private message can only be seen by the two of you.**
+
 **10 October — Photos you upload now have any hidden location and camera details removed on our servers as well as in the app.**
 
 **10 October — Profiles are now for members only, and your profile no longer keeps a copy of your location.** Where you are lives only on the live map, offset by the distance you chose.
