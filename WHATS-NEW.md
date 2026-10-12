@@ -6,6 +6,8 @@ Every change members can see, newest first. Dates are when it went live.
 
 ## October 2026
 
+**12 October — New: safety mode, in Settings → Location privacy.** Others only see you somewhere within about 13 miles, your dot stays put while you move around the same area, nobody sees how far away you are, guests can't see you, and notifications don't say who or what. It is switched on automatically in countries where being gay is against the law.
+
 **12 October — Fixed the safety notice not going away after tapping "I understand".**
 
 **12 October — Calls are more private.** A one-to-one call is only ever for the two of you, only the person who started a group call can add people, and opening a call link now asks before your camera turns on.
