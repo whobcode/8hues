@@ -6,6 +6,8 @@ Every change members can see, newest first. Dates are when it went live.
 
 ## October 2026
 
+**12 October — Fixed the safety notice not going away after tapping "I understand".**
+
 **12 October — Calls are more private.** A one-to-one call is only ever for the two of you, only the person who started a group call can add people, and opening a call link now asks before your camera turns on.
 
 **12 October — Reporting is clearer.** When you report someone you can say what happened, and reports of someone under 18 or of an intimate image reach a person straight away. Any photo opened full screen now has "Report this photo". If an intimate image of you was shared without your consent, 8hues.com/takedown gets it removed within 48 hours, with every copy, even if you don't have an account. A new safety center at 8hues.com/safety has tips, how reports are handled, and where to get help.
