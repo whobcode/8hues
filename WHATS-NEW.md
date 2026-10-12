@@ -6,6 +6,12 @@ Every change members can see, newest first. Dates are when it went live.
 
 ## October 2026
 
+**12 October — Calls are more private.** A one-to-one call is only ever for the two of you, only the person who started a group call can add people, and opening a call link now asks before your camera turns on.
+
+**12 October — Reporting is clearer.** When you report someone you can say what happened, and reports of someone under 18 or of an intimate image reach a person straight away. Any photo opened full screen now has "Report this photo". If an intimate image of you was shared without your consent, 8hues.com/takedown gets it removed within 48 hours, with every copy, even if you don't have an account. A new safety center at 8hues.com/safety has tips, how reports are handled, and where to get help.
+
+**12 October — Before you message anyone, 8hues now shows a short safety notice once: we don't run criminal background checks on members, and four things to keep in mind when talking to and meeting people you've met here.**
+
 **11 October — Photos you remove from your profile are now deleted from our servers, and photos you send in a private message can only be seen by the two of you.**
 
 **10 October — Photos you upload now have any hidden location and camera details removed on our servers as well as in the app.**
