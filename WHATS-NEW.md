@@ -6,6 +6,8 @@ Every change members can see, newest first. Dates are when it went live.
 
 ## October 2026
 
+**13 October — Your location is better hidden.** Others now never see you closer than half the distance you choose, and by default at least a third of a mile away. If you pick a smaller circle, the slider tells you how close you might appear.
+
 **12 October — The terms and privacy policy are rewritten to match how 8hues works today: which services handle your data and what each one sees, what deleting your account removes, how safety mode and removal requests work, and privacy@8hues.com for any request.**
 
 **12 October — New: safety mode, in Settings → Location privacy.** Others only see you somewhere within about 13 miles, your dot stays put while you move around the same area, nobody sees how far away you are, guests can't see you, and notifications don't say who or what. It is switched on automatically in countries where being gay is against the law.
