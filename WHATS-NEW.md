@@ -6,6 +6,8 @@ Every change members can see, newest first. Dates are when it went live.
 
 ## October 2026
 
+**14 October — Photos are now visible only to signed-in members.** People browsing as a guest see names and emoji on the map, never photos.
+
 **14 October — 8hues now asks for your date of birth when you join, before you browse as a guest, and once for members who joined earlier.** It isn't shown to anyone.
 
 **14 October — The terms now say what happens to your account if 8hues is ever sold, and emails about Plus reopening have an unsubscribe link.**
