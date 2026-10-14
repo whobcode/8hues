@@ -6,6 +6,8 @@ Every change members can see, newest first. Dates are when it went live.
 
 ## October 2026
 
+**14 October — The terms now say what happens to your account if 8hues is ever sold, and emails about Plus reopening have an unsubscribe link.**
+
 **13 October — Your location is better hidden.** Others now never see you closer than half the distance you choose, and by default at least a third of a mile away. If you pick a smaller circle, the slider tells you how close you might appear.
 
 **12 October — The terms and privacy policy are rewritten to match how 8hues works today: which services handle your data and what each one sees, what deleting your account removes, how safety mode and removal requests work, and privacy@8hues.com for any request.**
