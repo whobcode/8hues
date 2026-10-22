@@ -6,6 +6,8 @@ Every change members can see, newest first. Dates are when it went live.
 
 ## October 2026
 
+**22 October — Text on the see-through panels is easier to read.** Street names and chat behind a panel no longer show through its words, while the map itself stays visible, a little brighter than before.
+
 **14 October — Photos are now visible only to signed-in members.** People browsing as a guest see names and emoji on the map, never photos.
 
 **14 October — 8hues now asks for your date of birth when you join, before you browse as a guest, and once for members who joined earlier.** It isn't shown to anyone.
