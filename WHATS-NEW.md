@@ -4,6 +4,12 @@ Every change members can see, newest first. Dates are when it went live.
 
 ---
 
+## November 2026
+
+**3 November — Plus now shows its price and terms before you buy: $6.99 for 31 days, paid once, never renews, and you can cancel within 3 business days for a full refund.** When your Plus is switched on, we email you.
+
+---
+
 ## October 2026
 
 **22 October — Text on the see-through panels is easier to read.** Street names and chat behind a panel no longer show through its words, while the map itself stays visible, a little brighter than before.
