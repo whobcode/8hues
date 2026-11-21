@@ -50,7 +50,6 @@ travel mode, and all eight colour schemes.
 - Read receipts on your messages
 - See who viewed your profile
 - Video rooms
-- No ads
 
 Plus is a month at a time, and there's no subscription to cancel — it simply
 ends unless you buy another. **New Plus purchases are paused at the moment.**
