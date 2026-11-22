@@ -6,6 +6,14 @@ Every change members can see, newest first. Dates are when it went live.
 
 ## November 2026
 
+**22 November — Plus no longer promises an ad-free map.** Plus still hides the ads we haven't sold, but an advertiser can now pay to reach Plus members, so a sponsored card may appear. You will never be shown an ad selling you Plus when you already have it.
+
+**22 November — A Plus purchase no longer goes missing.** Receipts from the first sales on 6 November weren't being read at all, so those purchases weren't recorded for review. They're read correctly now, and once your payment is confirmed Plus is switched on and you get an email saying so.
+
+**22 November — Places on the map are held to a tighter standard.** Children's playgrounds and highway rest areas are no longer listed as places, and a business is only described as an LGBTQ+ venue if it says so itself rather than merely being tagged as welcoming.
+
+**22 November — shop.8hues.com now reaches the store.** The address anyone would type for the shop used to lead to an error page; it goes straight there now, and product links keep working.
+
 **3 November — Plus now shows its price and terms before you buy: $6.99 for 31 days, paid once, never renews, and you can cancel within 3 business days for a full refund.** When your Plus is switched on, we email you.
 
 ---
